@@ -28,6 +28,6 @@ Bachelor thesis project (University of Sarajevo, Sept 2023): implementation of a
 - Robot: XMachines X100 UGV + Velodyne 3D LiDAR
 
 ## Repository structure
-- src/ – ROS node(s) (C++)
-- media/ – screenshots/images (Gazebo/RViz results)
-- docs/ – thesis PDF
+- `src/` – ROS node(s) (C++)
+- `media/` – screenshots/images (Gazebo/RViz results)
+- `docs/` – thesis PDF
